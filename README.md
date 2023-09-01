@@ -28,7 +28,7 @@ This project is a personal portfolio website that I've built using HTML and CSS.
 
 # Usage
 
-1. Open the `index.html` file in a web browser to view the portfolio website.
+1. Open the `_portfolio.html` file in a web browser to view the portfolio website.
 
 # Technologies Used
 

@@ -11,7 +11,7 @@ A simple portfolio website showcasing my web development skills using HTML and C
 - Features
 - Usage
 - Technologies Used
-- license
+
 
 # Description
 
